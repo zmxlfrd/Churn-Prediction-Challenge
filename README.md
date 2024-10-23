@@ -1,6 +1,7 @@
 Summary
 
 Used data preprocessing and a Random Forest model to predict customer churn, achieving a 0.73 ROC AUC score. Insights can guide retention strategies to improve customer loyalty.
+
 ​
 Solution
 
